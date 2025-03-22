@@ -19,11 +19,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=movindu477&theme=radical" alt="movindu477" />
-  </a>
-</p>
+<a href="https://github.com/movindu477?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=movindu477&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
 
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **HTML , JavaScript, CSS**
