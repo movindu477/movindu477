@@ -17,10 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=movindu477&label=Profile%20views&color=00ffff&style=flat" alt="movindu477" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<a href="https://github.com/movindu477?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=movindu477&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
-
 - 🌱 I'm currently learning **Flutter**
 - 💬 Ask me about **HTML , JavaScript, CSS**
 - 📫 Reach me at **movinduweerabahu314@gmail.com**
