@@ -46,6 +46,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 
 ### 🧰 &nbsp;Version Controll & Tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
