@@ -62,8 +62,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=movindu477&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="center">⚡ Let's Build Something Awesome! ⚡</h3>
